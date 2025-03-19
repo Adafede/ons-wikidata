@@ -1,3 +1,4 @@
 *.quickstatements
 *.kate-swp
 *.qs
+.DS_Store
